@@ -1,2 +1,2 @@
 # VKMobile
-VKMobile app for GeekBrains
+Homework Project for GeekBrains
